@@ -26,3 +26,4 @@ Schedule
 8. Period 8: Global History  
 
 Click [here](https://www.hstat.org/) to go to the schools website
+Click [here](https://hstatsep.github.io/) to go to the sep website
